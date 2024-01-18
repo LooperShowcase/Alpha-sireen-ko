@@ -1,0 +1,98 @@
+body {
+  background-color: #c5f3f7;
+}
+div#div1 {
+  background-color: #97abe9;
+}
+div#div2 {
+  background-color: #f5d4d4;
+}
+h4 {
+  font-size: 21px;
+}
+div#div3 {
+  background-color: #ddc7f9;
+}
+p {
+  font-size: 27px;
+}
+h1 {
+  font-size: 35px;
+  color: rgb(95, 96, 142);
+}
+
+#div4 {
+  display: flex;
+  justify-content: space-evenly;
+}
+#div5 {
+  background-color: #d6bff0;
+}
+.navbar-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+.navbar {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+li a.active {
+  color: white;
+  background-color: #04aa6d;
+}
+#cake {
+  color: #d000ff;
+  background-color: white;
+}
+ul {
+  font-size: 25px;
+}
+#choco {
+  display: flex;
+}
+
+#chocolate {
+  border-radius: 15px;
+  height: 400px;
+  width: 400px;
+}
+#macarons {
+  border-radius: 15px;
+  height: 400px;
+  width: 400px;
+}
+#mac {
+  border-radius: 15px;
+  height: 400px;
+  width: 400px;
+}
+#wip {
+  font-size: 30px;
+}
+
+#rons {
+  border-radius: 15px;
+  height: 400px;
+  width: 400px;
+  float: right;
+  margin-right: 100px;
+}
+#FACT {
+  background-color: #ddc7f9;
+}
